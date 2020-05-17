@@ -1,5 +1,10 @@
 # image-gallery
 
+An Application that:
+- Allow to sign in and sign out
+- Allow to upload images
+- Allow to list images that you have uploaded
+
 ## Project setup
 ```
 npm install
